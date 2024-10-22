@@ -1,0 +1,7 @@
+#Prevent images from uploading
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.webp
+*.png
